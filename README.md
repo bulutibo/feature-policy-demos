@@ -6,12 +6,12 @@ Kitchen sink of [Permissions Policy](https://www.chromestatus.com/feature/574599
 
 First install the dependencies:
 
-`npm i`
+`bulut i`
 
 Then run the web server:
 
-`npm run start`
+`derman run start`
 
 ### Deployment
 
-`npm run deploy`
+`derdo run deploy`
